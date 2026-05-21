@@ -1,0 +1,14 @@
+# Arquivos gerados durante o laboratorio
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Ambientes e dependencias locais
+.venv/
+venv/
+node_modules/
+
+# Configuracoes locais do editor/sistema
+.env
+.DS_Store
